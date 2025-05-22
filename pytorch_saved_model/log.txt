@@ -1,0 +1,125 @@
+20250521 13:21:27.881 : Activity change detected ! av_loss 0.24399163418379197 >> av_av_loss 0.0804378050336192
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+20250521 13:21:51.233 #train: 1024, Loss: 0.0333, av_loss: 0.0193, av_av_loss: 0.2029
+20250521 13:23:17.331 #train: 1280, Loss: 0.0630, av_loss: 0.0460, av_av_loss: 0.1017
+20250521 13:23:21.238 #train: 256, Loss: 0.0932, av_loss: 0.0684, av_av_loss: 0.4678
+20250521 13:27:15.536 #train: 512, Loss: 0.1157, av_loss: 0.0291, av_av_loss: 0.1073
+20250521 13:27:24.173 #train: 1536, Loss: 0.1532, av_loss: 0.0134, av_av_loss: 0.0259
+20250521 13:27:54.741 : Activity change detected ! av_loss 0.10067448441285415 >> av_av_loss 0.03348175158063216
+20250521 13:27:55.617 #train: 1792, Loss: 0.1603, av_loss: 0.1107, av_av_loss: 0.1014
+20250521 13:27:56.390 #train: 768, Loss: 0.1286, av_loss: 0.0593, av_av_loss: 0.0951
+20250521 13:28:21.125 #train: 1024, Loss: 0.0949, av_loss: 0.0781, av_av_loss: 0.0922
+20250521 13:29:13.187 #train: 2048, Loss: 0.0067, av_loss: 0.0061, av_av_loss: 0.0715
+20250521 13:30:20.254 #train: 1280, Loss: 0.0570, av_loss: 0.0210, av_av_loss: 0.0454
+20250521 13:30:33.509 #train: 2304, Loss: 0.0572, av_loss: 0.0252, av_av_loss: 0.0489
+20250521 13:32:32.462 #train: 2560, Loss: 0.0063, av_loss: 0.0034, av_av_loss: 0.0229
+20250521 13:32:58.971 #train: 1536, Loss: 0.0054, av_loss: 0.0040, av_av_loss: 0.0181
+20250521 13:34:06.057 #train: 2816, Loss: 0.0054, av_loss: 0.0037, av_av_loss: 0.0137
+20250521 13:35:47.517 #train: 1792, Loss: 0.0059, av_loss: 0.0044, av_av_loss: 0.0078
+20250521 13:35:53.922 #train: 3072, Loss: 0.0055, av_loss: 0.0045, av_av_loss: 0.0090
+20250521 13:37:32.439 #train: 3328, Loss: 0.0117, av_loss: 0.0067, av_av_loss: 0.0067
+20250521 13:37:48.009 #train: 2048, Loss: 0.0070, av_loss: 0.0046, av_av_loss: 0.0056
+20250521 13:38:49.847 #train: 2304, Loss: 0.0060, av_loss: 0.0035, av_av_loss: 0.0052
+20250521 13:39:12.786 #train: 3584, Loss: 0.0098, av_loss: 0.0039, av_av_loss: 0.0055
+20250521 13:40:01.890 #train: 3840, Loss: 0.0085, av_loss: 0.0048, av_av_loss: 0.0051
+20250521 13:40:03.563 #train: 2560, Loss: 0.0083, av_loss: 0.0046, av_av_loss: 0.0051
+20250521 13:40:44.745 #train: 4096, Loss: 0.0051, av_loss: 0.0050, av_av_loss: 0.0052
+20250521 13:40:51.558 #train: 2816, Loss: 0.0099, av_loss: 0.0076, av_av_loss: 0.0051
+20250521 13:42:58.887 #train: 4352, Loss: 0.0052, av_loss: 0.0029, av_av_loss: 0.0038
+20250521 13:43:16.341 #train: 3072, Loss: 0.0072, av_loss: 0.0048, av_av_loss: 0.0040
+20250521 13:43:39.231 #train: 4608, Loss: 0.0062, av_loss: 0.0060, av_av_loss: 0.0042
+20250521 13:43:51.319 #train: 3328, Loss: 0.0082, av_loss: 0.0065, av_av_loss: 0.0044
+20250521 13:44:18.199 #train: 4864, Loss: 0.0063, av_loss: 0.0051, av_av_loss: 0.0045
+20250521 13:48:08.142 #train: 3584, Loss: 0.0055, av_loss: 0.0021, av_av_loss: 0.0028
+20250521 13:49:52.390 : Activity change detected ! av_loss 0.01127725409328346 >> av_av_loss 0.0035209270767190947
+20250521 13:49:53.343 : Activity change detected ! av_loss 0.04019161657372577 >> av_av_loss 0.013344341072905682
+20250521 13:49:58.999 : Activity change detected ! av_loss 0.009666985906230557 >> av_av_loss 0.0031291964742720365
+20250521 13:51:15.998 #train: 3840, Loss: 0.0354, av_loss: 0.0089, av_av_loss: 0.0235
+20250521 13:51:18.971 : Activity change detected ! av_loss 0.025498353663811327 >> av_av_loss 0.008153665396180084
+20250521 13:51:19.786 #train: 5120, Loss: 0.1629, av_loss: 0.0808, av_av_loss: 0.0294
+20250521 13:51:22.179 : Activity change detected ! av_loss 0.09956828330781871 >> av_av_loss 0.033021207473856916
+20250521 13:51:28.986 : Activity change detected ! av_loss 0.08824758605208767 >> av_av_loss 0.029238172671119594
+20250521 13:52:25.427 #train: 5376, Loss: 0.1163, av_loss: 0.0346, av_av_loss: 0.0614
+20250521 13:52:53.070 #train: 4096, Loss: 0.0073, av_loss: 0.0062, av_av_loss: 0.0475
+20250521 13:53:40.222 #train: 5632, Loss: 0.0080, av_loss: 0.0057, av_av_loss: 0.0417
+20250521 13:54:30.807 #train: 4352, Loss: 0.0100, av_loss: 0.0033, av_av_loss: 0.0253
+20250521 13:54:36.228 : Activity change detected ! av_loss 0.10088851453064028 >> av_av_loss 0.0335920873690565
+20250521 13:56:15.968 #train: 4608, Loss: 0.0243, av_loss: 0.0048, av_av_loss: 0.0441
+20250521 13:56:20.481 #train: 5888, Loss: 0.0144, av_loss: 0.0022, av_av_loss: 0.0110
+20250521 13:56:25.093 : Activity change detected ! av_loss 0.04050001517362827 >> av_av_loss 0.013487270966724032
+20250521 13:57:07.639 #train: 6144, Loss: 0.0054, av_loss: 0.0045, av_av_loss: 0.0299
+20250521 13:57:50.600 #train: 4864, Loss: 0.0051, av_loss: 0.0044, av_av_loss: 0.0231
+20250521 13:59:01.147 #train: 6400, Loss: 0.0055, av_loss: 0.0039, av_av_loss: 0.0151
+20250521 13:59:53.734 #train: 5120, Loss: 0.0052, av_loss: 0.0045, av_av_loss: 0.0103
+20250521 14:00:09.701 #train: 6656, Loss: 0.0056, av_loss: 0.0037, av_av_loss: 0.0092
+20250521 14:00:51.588 #train: 5376, Loss: 0.0052, av_loss: 0.0029, av_av_loss: 0.0078
+20250521 14:01:48.978 #train: 6912, Loss: 0.0082, av_loss: 0.0066, av_av_loss: 0.0062
+20250521 14:02:52.483 #train: 5632, Loss: 0.0053, av_loss: 0.0046, av_av_loss: 0.0054
+20250521 14:03:03.124 #train: 7168, Loss: 0.0055, av_loss: 0.0042, av_av_loss: 0.0055
+20250521 14:03:49.098 #train: 7424, Loss: 0.0060, av_loss: 0.0059, av_av_loss: 0.0051
+20250521 14:03:56.988 #train: 5888, Loss: 0.0058, av_loss: 0.0051, av_av_loss: 0.0048
+20250521 14:05:28.956 #train: 7680, Loss: 0.0063, av_loss: 0.0045, av_av_loss: 0.0044
+20250521 14:05:33.190 #train: 6144, Loss: 0.0084, av_loss: 0.0039, av_av_loss: 0.0041
+20250521 14:06:24.032 #train: 7936, Loss: 0.0098, av_loss: 0.0057, av_av_loss: 0.0044
+20250521 14:06:33.056 #train: 6400, Loss: 0.0082, av_loss: 0.0058, av_av_loss: 0.0041
+20250521 14:07:08.993 #train: 8192, Loss: 0.0060, av_loss: 0.0051, av_av_loss: 0.0047
+20250521 14:08:18.355 #train: 6656, Loss: 0.0061, av_loss: 0.0044, av_av_loss: 0.0036
+20250521 14:08:33.065 #train: 8448, Loss: 0.0057, av_loss: 0.0053, av_av_loss: 0.0041
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+20250521 14:11:33.746 #train: 8704, Loss: 0.0052, av_loss: 0.0034, av_av_loss: 0.0031
+20250521 14:11:44.490 #train: 256, Loss: 0.0056, av_loss: 0.0039, av_av_loss: 0.2364
+20250521 14:12:57.609 #train: 8960, Loss: 0.0060, av_loss: 0.0042, av_av_loss: 0.0033
+20250521 14:14:04.669 #train: 512, Loss: 0.0053, av_loss: 0.0040, av_av_loss: 0.0545
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+20250521 14:18:14.952 : Activity change detected ! av_loss 0.009461941531376738 >> av_av_loss 0.0031383157758740027
+20250521 14:18:15.273 : Activity change detected ! av_loss 0.03395111076736838 >> av_av_loss 0.011051839883263711
+20250521 14:18:15.868 : Activity change detected ! av_loss 0.12301492260030275 >> av_av_loss 0.039929154758988505
+20250521 14:18:16.035 #train: 9216, Loss: 0.9573, av_loss: 0.1638, av_av_loss: 0.1256
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+20250521 14:21:44.357 #train: 256, Loss: 0.0059, av_loss: 0.0037, av_av_loss: 0.2670
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+20250521 14:22:09.133 #train: 9472, Loss: 0.0062, av_loss: 0.0026, av_av_loss: 0.0212
+20250521 14:24:33.064 #train: 9728, Loss: 0.0051, av_loss: 0.0031, av_av_loss: 0.0071
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+20250521 14:28:36.638 #train: 9984, Loss: 0.0053, av_loss: 0.0039, av_av_loss: 0.0033
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+20250521 14:30:28.503 #train: 10240, Loss: 0.0058, av_loss: 0.0055, av_av_loss: 0.0031
+20250521 14:30:48.668 #train: 10496, Loss: 0.0092, av_loss: 0.0050, av_av_loss: 0.0037
+20250521 14:31:14.635 #train: 10752, Loss: 0.0068, av_loss: 0.0037, av_av_loss: 0.0039
+20250521 14:37:23.750 #train: 11008, Loss: 0.0053, av_loss: 0.0031, av_av_loss: 0.0021
+20250521 14:37:52.213 #train: 11264, Loss: 0.0052, av_loss: 0.0037, av_av_loss: 0.0028
+20250521 14:39:56.728 #train: 11520, Loss: 0.0054, av_loss: 0.0036, av_av_loss: 0.0026
+20250521 14:42:31.715 #train: 11776, Loss: 0.0057, av_loss: 0.0034, av_av_loss: 0.0028
+20250521 14:45:48.682 #train: 12032, Loss: 0.0068, av_loss: 0.0031, av_av_loss: 0.0026
+20250521 14:45:59.547 #train: 12288, Loss: 0.0061, av_loss: 0.0051, av_av_loss: 0.0031
+20250521 14:46:45.365 : Activity change detected ! av_loss 0.011043701563312035 >> av_av_loss 0.0036677765087186724
+20250521 14:46:45.716 #train: 12544, Loss: 0.1965, av_loss: 0.0281, av_av_loss: 0.0122
+20250521 14:46:45.975 : Activity change detected ! av_loss 0.03929615811860314 >> av_av_loss 0.01296474237833295
+20250521 14:49:49.886 : Activity change detected ! av_loss 0.008226889883071582 >> av_av_loss 0.0027272625980566292
+20250521 14:49:50.560 #train: 12800, Loss: 0.0819, av_loss: 0.0168, av_av_loss: 0.0088
+20250521 14:51:33.268 #train: 13056, Loss: 0.0130, av_loss: 0.0086, av_av_loss: 0.0048
+20250521 14:51:48.212 #train: 13312, Loss: 0.0169, av_loss: 0.0091, av_av_loss: 0.0058
+20250521 14:52:28.774 #train: 13568, Loss: 0.0085, av_loss: 0.0071, av_av_loss: 0.0057
+20250521 14:52:45.210 #train: 13824, Loss: 0.0087, av_loss: 0.0078, av_av_loss: 0.0063
+20250521 14:52:53.640 : Activity change detected ! av_loss 0.02353735399149043 >> av_av_loss 0.00780407165512444
+20250521 14:53:08.863 #train: 14080, Loss: 0.0074, av_loss: 0.0070, av_av_loss: 0.0204
+20250521 14:53:22.324 #train: 14336, Loss: 0.0469, av_loss: 0.0247, av_av_loss: 0.0198
+20250521 14:56:36.515 : Activity change detected ! av_loss 0.005708080934445741 >> av_av_loss 0.001885019846023751
+20250521 14:56:37.150 #train: 14592, Loss: 0.0622, av_loss: 0.0124, av_av_loss: 0.0062
+20250521 14:56:38.376 : Activity change detected ! av_loss 0.020782315806961018 >> av_av_loss 0.006884212993054056
+20250521 14:57:09.298 #train: 14848, Loss: 0.0059, av_loss: 0.0042, av_av_loss: 0.0143
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+Model states loaded from ../pytorch_saved_model/weight_model.pt
+20250521 15:03:22.659 #train: 256, Loss: 0.0463, av_loss: 0.0250, av_av_loss: 0.0858
+20250521 15:03:55.534 #train: 512, Loss: 0.0565, av_loss: 0.0474, av_av_loss: 0.0539
+20250521 15:04:13.198 #train: 768, Loss: 0.0710, av_loss: 0.0337, av_av_loss: 0.0460
+20250521 15:04:29.233 #train: 1024, Loss: 0.0681, av_loss: 0.0570, av_av_loss: 0.0431
+20250521 15:04:58.735 #train: 1280, Loss: 0.0217, av_loss: 0.0104, av_av_loss: 0.0315
+20250521 15:05:07.443 #train: 1536, Loss: 0.0169, av_loss: 0.0150, av_av_loss: 0.0288
+20250521 15:05:22.058 #train: 1792, Loss: 0.0228, av_loss: 0.0189, av_av_loss: 0.0265
+20250521 15:05:38.722 #train: 2048, Loss: 0.0163, av_loss: 0.0149, av_av_loss: 0.0235
+20250521 15:05:52.901 #train: 2304, Loss: 0.0183, av_loss: 0.0173, av_av_loss: 0.0222
+20250521 15:06:06.515 #train: 2560, Loss: 0.0247, av_loss: 0.0176, av_av_loss: 0.0213
+20250521 15:06:22.798 #train: 2816, Loss: 0.0222, av_loss: 0.0182, av_av_loss: 0.0207
