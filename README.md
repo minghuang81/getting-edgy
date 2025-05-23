@@ -21,6 +21,9 @@ When unfamiliar input is encountered by the model (training loss spikes), the tr
 ## pytorch_saved_model/weight_model.pt
 This a pretrained model that the python program starts with. Then every half a day, the training will save a new version of the model overriding the old one.
 
+## Model And Training
+The BERT encoder model is defined in the Python code within continousTrainingAndDetection.py.
+![BERT Encoder](ubuntu_continuous_training/model.png)
 
 
 
